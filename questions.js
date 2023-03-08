@@ -1,11 +1,11 @@
 let questions = [
     {
       text: `What is the first book of the Old Testament?
-        A. Leviticus
+        A. Genesis
         B. Numbers
-        C. Genesis
+        C. Leviticus
         D. Exodus`,
-      correctAnswer: "C"
+      correctAnswer: "A"
     },
     {
       text: `How would one say goodbye in Spanish?
